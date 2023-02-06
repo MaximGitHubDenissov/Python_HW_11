@@ -1,2 +1,2 @@
 # Python_HW_11
-Файл в формате Jypiter notebook
+Файл в формате Jupiter notebook
